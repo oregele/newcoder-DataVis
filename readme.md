@@ -9,6 +9,8 @@ The tutorial is meant to go over:
 * Making graphs
 * producing GeoJSON files for mapping
 
+but also:
+
 * Importing standard and custom libraries and modules
 * Installing third party packages (observing their licenses)
 * File I/O
@@ -17,7 +19,8 @@ The tutorial is meant to go over:
 * Python's interactive shell in terminal
 * Iterators versus Generators
 
-and also...
+and finally...
+
 * NumPy
 * Matplotlib
 * GeoJSON (similar to TopoJSON) using geojson module
